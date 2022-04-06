@@ -1,0 +1,1 @@
+game.Workspace.GlobalSound.DayMusic:Play()
