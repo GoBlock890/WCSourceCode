@@ -4,8 +4,8 @@
 A Roblox game, Where You Collect Many types of wheats to progress.
 
 ## License
-✔️ You may use any assets in the source code.
+You're only allowed to use the source file as **Example Usage Only**. Modding Are Allowed, But 100% Copy with diffrent name and theme are probihated for Cormercial Use.
 
-❌ You're not allowed to upload or mod the game for commmercial use.
+## Note
 
-
+Source file Has Been Extracted Using [rbxlx-to-rojo](https://github.com/rojo-rbx/rbxlx-to-rojo)
